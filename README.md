@@ -21,3 +21,20 @@ This project analyzes 60 years of Billboard Hot 100 data to uncover patterns beh
 - Scikit-Learn
 - Jupyter Notebook
 
+
+## Key Insights
+
+- A small number of artists dominate the charts.
+- Most songs leave the chart quickly while a few stay for long periods.
+- Chart trends evolve across decades.
+- Songs that reach higher ranks often remain longer on the chart.
+
+## How to Run
+
+Install dependencies:
+
+Run analysis scripts or open the notebook.
+
+## Author
+
+Data Analysis Project exploring music trends using Billboard Hot 100 data.
