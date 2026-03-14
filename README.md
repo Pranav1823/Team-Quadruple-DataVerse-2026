@@ -1,5 +1,5 @@
 # Team-Quadruple-DataVerse-2026
-# Billboard Hit Analysis 🎵
+# Billboard Hit Analysis 
 
 This project analyzes 60 years of Billboard Hot 100 data to uncover patterns behind successful songs and artists.
 
